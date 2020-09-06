@@ -1,0 +1,553 @@
+<!-- <html><head><title></title></head><body></body></html>  -->
+<!DOCTYPE HTML>
+<html>
+<!--
+Cross Builder V2.0
+page version: 
+by 网络媒体事业群办公室_商业体验中心
+合作请RTX shelleyhe
+-->
+<head>
+	<meta charset="gb2312">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+	<meta name="Keywords" content="政府工作报告,房价">
+	<title>楼市调控的“秘密”，就隐藏在政府工作报告中</title>
+    <!-- //mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css
+         ../../../global/assets/css/crossbuilder.css
+    -->
+    <link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/global/assets/css/crossbuilder.css">    
+   	<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/pbt_style_v.1.4.css">
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/css/mc_dianzan/dianzan_style_v1.0.css">
+    <!-- html5.js for IE less than 9 -->
+    <!--[if lt IE 9]>
+        <script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/html5.js"></script>
+    <![endif]-->
+
+    <style>
+       
+	        #frontPanel{
+            background-image:url(http://inews.gtimg.com/newsapp_ls/0/1210829749/0);
+        }
+			/* 背景颜色设置 */
+        html, .pbt_intro_wrapper.style-0 .box_icon{ background-color: #FFFFFF!important;}
+        
+        /* 整体颜色设置 */
+        div,span,p,a, h2, h3,h4{color: #555555!important;}
+        h2,h3,h4{border-color:#555555!important;}
+        /* 针对财经频道 */
+        @media only screen and (max-width: 480px){
+            /* 针对财经频道 */
+            .pbt_container.size_full {margin: 0px auto 10px auto; }
+        }
+
+    </style>
+</head>
+
+<body data-src="">
+<div id='wx_pic' style='margin:0 auto;display:none;'><img src='http://inews.gtimg.com/newsapp_ls/0/1209666512/0' /></div>
+<link rel="stylesheet" type="text/css" href="//mat1.gtimg.com/www/mb/cb/publish/assets/css/cb_toolbar_v2.css"><div class="cb_toolbar" id="logoPanel"><div class="mod_inner"><div class="logo"><a href="http://news.qq.com" class="newslogo"></a></div><div class="link"><ul><li><a href="http://www.qq.com" target="_blank">腾讯网首页</a></li><li class="end"><a href="http://www.qq.com/map/" target="_blank">网站导航</a></li></ul></div>
+            <script language="JavaScript">
+                var hdPic ={url:location.href,title:"0",pic: [], pic1: []};
+                 var cbtb_url = "";
+                    var login = {
+                        loginSuccess: function(){
+                            ptlogin2_onClose();
+                            cbtb_init();
+                        }
+                    };
+            </script>
+            <div class="shareList">
+                <div class="share_btn">
+                    <span>分享到：</span>
+                </div>
+                    <ul class="menu-bd">
+                        <li class="share2weibo" id="cb_share2weibo" title="转播腾讯微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTweibo"></a></li>
+                        <li class="share2qzone" id="cb_share2qzone" title="分享到我的QQ空间"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTzone"></a></li>
+                        <li class="share2qq" id="cb_share2qq" title="分享到QQ好友"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTQQ"></a></li>
+                        <li class="share2sina" id="cb_share2sina" title="转播到新浪微博"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTsina"></a></li>
+                        <li class="share2wx" id="cb_share2wx" title="分享到微信"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwx"></a></li>
+                        <li class="share2wxf" id="cb_share2wxf" title="分享到朋友圈"><a href="javascript:void(0)" hidefocus="true" class="g-btn-b" bosszone="gqTwxf"></a></li>
+                    </ul>
+
+                <div class="tb_wx_share" id="cb_share_div" style="display:none;">
+                        <div class="tb_wx_share_triangle" id="cb_ts_triangle"></div>
+                        <div class="tb_wx_share_left"><img src="http://inews.gtimg.com/newsapp_ls/0/1210637777/0"></div>
+                        <div class="tb_wx_share_right">
+                          <ul>
+                            <li class="a"><div></div><p>扫一扫二维码</p></li>
+                            <li class="i"></li>
+                            <li class="b"><div></div><p>点击右上角图标</p></li>
+                            <li class="i"></li>
+                            <li class="c" id="cb_ts_wx"><div></div><p>发送给微信好友</p></li>
+                            <li class="d" id="cb_ts_wxf"><div></div><p>分享到朋友圈</p></li>
+                          </ul>
+                        </div>
+                    </div>
+            </div>
+            <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cb_share_v1.js"></script>
+        </div><div class="tb_login_content">
+                <div id="tb_login_content_in" style="display:none;">
+                    <a href="javascript:void(0);" id="http_login">
+                        [登录]
+                    </a>
+                </div>
+                <div id="tb_login_content_out" style="display:none;">
+                    <span>
+                        您好，
+                        <i id="tb_qq_uid">
+                        </i>
+                    </span>
+                    <a href="javascript:void(0);" id="http_logout">
+                        [退出]
+                    </a>
+                </div>
+            </div>
+            <div id="login_div" class="login_div">
+                <iframe id="login_frame" frameborder="0" scrolling="no"></iframe>
+            </div>
+            <div id="overlay"></div>
+        </div>
+        <script language="JavaScript" src="//imgcache.qq.com/ptlogin/ac/v9/js/ptloginout.js"></script>
+        <script language="JavaScript" src="//mat1.gtimg.com/www/mb/cb/publish/assets/js/cbtb_qq_wx_userlogin_v1.js" charset="utf-8"></script>
+        <script language="JavaScript">
+            cbtb_init();
+        </script><!-- Just For Mobile : FrontPage -->
+<div id="frontPanel" class="pbt_front_container p_front pbt_m_index anim">
+	<!-- 设置对齐方式:'align_left', 'align_mid', 'align_right' -->
+    <div class="pf_content align_mid">
+        <div class="pf_logo ani show">
+            <div class="pf_logo_box">
+                <img src="">
+            </div>
+            <div class="clearfix"></div>      
+        </div>
+        <div class="pf_title ani show">
+            <div class="pf_title_box">
+                <h2 class="COLOR_TITLE_STYLE"></h2>
+            </div>
+        </div>
+    </div>
+    <!-- 向上滑动 : 固定 Bottom-Pos  -->
+    <div class="pbt_fup"></div>
+</div>
+<!-- Main Content -->
+<div class="pbt_main_container pbt_m_main anim main_content">
+    <!-- 段落导航-Nav -->
+    <div class="pbt_container size_nav" style="position:relative">
+        <div class="main_nav">
+            <div class="box-btnMobilefold">
+                <a class="btn-fold none-bgImg" style="background-color:#ADADAD" id="btnParaMobileFold">
+                    <!-- fill 颜色：data-activefontcolor -->
+                    <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                         width="33px" height="31px" viewBox="0 0 33 31" enable-background="new 0 0 33 31" xml:space="preserve" class="nav-icon">
+                         <g> <g> <path fill-rule="evenodd" clip-rule="evenodd" fill="#FF0000" d="M21.214,11.923H0v7.154h21.214V11.923z M0,23.847V31h33v-7.153H0 z M30,0H0v7.154h30V0z" style="fill:#FFFFFF;"/> </g> </g>
+                    </svg>
+                </a>
+            </div>
+            <ul id="paraNav" 
+                 data-fontcolor="FFFFFF" 
+                 data-bgcolor="ADADAD" 
+                 data-activefontcolor="FFFFFF" 
+                 data-activebgcolor="363636"
+            >
+                <li>
+                    <a class="action_top" data-target="JS_Anchor_Top"> 返回顶部 <em>></em></a>
+                </li>
+            </ul>
+        </div>
+    </div>    
+
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="960x260" data-original="http://inews.gtimg.com/newsapp_ls/0/1210635440/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">导读</span>
+                        <!-- PC端文字详情 -->
+                        总理政府工作报告是研判中国房价走势的“风向标”之一。我们整理了近10年总理政府工作报告中对住房问题的表述，用文本和数据来探究其中隐藏的楼市调控的“秘密”。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">导读</span>
+                        <!-- Mobile端文字详情 -->
+                        总理政府工作报告是研判中国房价走势的“风向标”之一。我们整理了近10年总理政府工作报告中对住房问题的表述，用文本和数据来探究其中隐藏的楼市调控的“秘密”。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">房价：从年年讲到零提及，再到重新谈起</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>作为事关民生的重大问题，政府工作报告自然不可能不谈“房”。我们发现，“房”字在政府工作报告中出现的频率，在过去十年间呈现“高潮-低谷-翘尾”的起伏。根据历年总理政府工作报告统计，</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x649" data-original="http://inews.gtimg.com/newsapp_ls/0/1224763832/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>温家宝最爱谈“房”。2008年-2013年，温家宝每年在报告中至少有7处提及“房”字，2010年更是高达10处。不仅谈“房”，他也直接点名“房价”。2008年，他提出要“防止房价过快增长”，并从健全廉租房制度、增加中低价位普通商品房供应、依法处置炒地炒房行为等方面，为房价调控开出了具体的“药方”。2008年，全国住宅商品房平均销售价格因而不升反降，房地产市场疲软。</p><p>2008年-2012年间，政府工作报告几乎年年提及“房价”——2009年是仅有的例外。面对金融危机和疲软的房市，2009年政府工作报告不提“房价”，只谈“稳定房地产投资”，成为房地产市场“维稳”的信号。2009年也成为近十年房价涨幅最高的一年，全国住宅商品房平均销售价格从2008年的每平方米3576元，一跃飞涨到2009年的4459元，涨幅高达24.7%。而且，在绝大多数年份里，住宅商品房的月度交易额都在两会后的4月“应声”下跌，直到6月、9月和12月才会出现交易高潮，但只有2009年和2010年是例外，住宅商品房的交易额在两会后的4月竟然“逆势”上扬。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x735" data-original="http://inews.gtimg.com/newsapp_ls/0/1210262596/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>2010年，政府工作报告的措辞立即强硬了许多。当年，温家宝不仅提出要“坚决遏制部分城市房价过快上涨势头”，还点名“土地财政”，要求“抑制土地价格过快上涨”。国务院于2010年4月17日出台《关于坚决遏制部分城市房价过快上涨的通知》（也称“新国十条”）后，二季度房市迅速降温，直到第三季度才重新回温。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x1297" data-original="http://inews.gtimg.com/newsapp_ls/0/1224764097/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>到2011年，报告中提及“房价”的次数已经罕见地高达4次，房价调控的主要职责也从中央政府下放到地方政府，要求“稳定房价和住房保障工作实行省级人民政府负总责，市县人民政府负直接责任”。不过从2012年起，谈论房地产市场调控的语气就温和许多了，逐渐从“切实稳定房地产市场价格”转变为“促进房价合理回归”。温家宝2013年的最后一份政府工作报告，已经一改此前对房价问题慷慨激昂的措辞，从“开药方”过渡为建设长效机制。</p><p>李克强则在报告中甚少谈“房”——其上任伊始的2014年和2015年，政府工作报告仅有4-5处提及“房”字，稍显克制。2016年报告中，词频上升到7次。至于“房价”二字，政府工作报告已连续三年“零提及”。直到今年李克强才首提“房价”，并针对“房价上涨压力大的城市”开出药方。</p><p>虽然是第一次提及“房价”，但房价飞涨一直是李克强的心头痛。执政四年，李克强在部署下一年工作时，每每提出“房地产市场平稳健康发展”的期望，并且动词也从2014年的“促进”到2016年的“推进”，再到2017年的“加快建立和完善促进”——对于实现房地产平稳健康发展的心情，越来越迫切。<br/></p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">政策：从强硬措辞到模糊表态，调控责任下放地方</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>那么，政府工作报告具体谈及了哪些房价调控的政策呢？</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x601" data-original="http://inews.gtimg.com/newsapp_ls/0/1224764343/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>我们从近年政府工作报告里发现，2013年换届之后，“保障性住房”、“棚户区改造”、“农村危房”依旧是政府工作报告中的座上宾。与租赁住房相关的调控政策，在过去十年间经历了从“加大廉租房建设”到“租购并举”的转变，仍然备受重视。但之前提过的“房产税”等相关税收政策、支持中小套型住房等具体调控政策已不再是常客。</p><p>李克强总理执政以来，“因地制宜，因城施策”的房地产调控思路成为主流。经过房地产市场的十年发展，一二线城市房价已屡次突破新高、三四线城市经过几番普涨，现在面临较大的去库存压力。同样是一线城市，北上广深房市特征亦不相同，统一的全国性的调控政策不再适合中国各地千差万别的房地产市场。在这一思路的指导下，中央政府已将房市调控责任落实到地方政府身上。</p><p>2016年以来，“房地产去库存”进入《政府工作报告》。在今年的政府工作报告中，李克强总理甚至直接点名“三四线城市”的库存压力，要求支持居民自住和进城人员购房需求。去库存的重担，落在了在快速城镇化进程中，一夜成为“城里人”的农民兄弟们身上。&nbsp;</p><p>至于众所关注的房产税问题，本届全国人大五次会议的新闻发言人傅莹3月4日已经直言：“今年没有把房地产税草案提请常委会审议的安排。”这种“慎重”也体现在了《政府工作报告》之中。</p><p>政府工作报告曾在2009年-2012年连续4年强调“房产税”三个字，然而自2015年起，李克强总理已不再直接点名“房产税”，而且表述也越来越模糊和宽泛。对房地产相关税收，2016年的政府工作报告仅表示将“完善支持居民住房合理消费的税收、信贷政策”，未见“房产税”三个字。</p><p>值得一提的是，2010年、2011年，《政府工作报告》曾打出“反腐治庸”牌，要求领导干部如实上报房产情况，并对“治房”不力的官员进行问责。遗憾的是，这项内容在此后报告中都不再出现了。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container anchor_para ">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <div class="box_table">
+                    <div class="box_table-td single icon" style="display:none">
+                        <img src="">
+                    </div>
+                    <div class="box_table-td full">
+                        <h2 class="pbt_small_size" style="color:#000000!important;">民声：房价依然是民众最为关心的内容之一</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>    
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>政府工作报告释放出的房地产市场调控信号，一次次转化成了网友对“房价”的搜索热潮。每年两会召开的三月份，往往是房价关注度的引爆点。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="750x487" data-original="http://inews.gtimg.com/newsapp_ls/0/1210273556/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p>虽然2014年-2016年的政府工作报告对“房价”二字只字未提，但两会前后搜索“房价”的网友却越来越多。尤其是新一届政府上台后，李克强第一次发布政府工作报告的前后两周，人们急于了解新一届领导班子如何解决住房问题，一度徘徊在6000以下的搜索指数陡然突破10000，对“房价”一词的搜索指数一举创下六年来最高点，迄今未被打破。可以说，总理每年做政府工作报告的日子，已成为民众全年最爱关注“房价”的时段。</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_intro_wrapper style-1">
+            <!-- 背景颜色 : 如果为 Default 则不设置 "background-color"；边框颜色：如果为 Default 则不设置 "border-color" -->
+            <div class="box_wrapper" style="background-color:#F1F1F1; border-color:#Default;">
+                <div class="box_icon top"><img src=""></div>
+                <div class="box_icon bottom"><img src=""></div>
+                <div class="pbt_text_wrap pc-style">                    
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">结语</span>
+                        <!-- PC端文字详情 -->
+                        回顾十年《政府工作报告》，从频繁提及、强力调控，再到闭口不谈，首度重提，可以看到政府表态、房价调控与民众舆论之间深厚的纠缠关系。无论是政府托底保障房建设，还是直接主导房地产市场调控，背后都能看到艰难博弈的影子。从过去一以贯之的国家调控，到“因城施策”的权力下放，新一届政府的房价调控策略越来越清晰。而房地产市场何时将实现“稳定健康发展”，或许还需拭目以待了。
+                    </p>
+                </div>
+                <div class="pbt_text_wrap mobile-style">
+                    <p>
+                        <!-- 标题颜色 及 标题文字 -->
+                        <span class="title" style="color:#ffffff!important; background-color:#4B4B4B!important">结语</span>
+                        <!-- Mobile端文字详情 -->
+                        回顾十年《政府工作报告》，从频繁提及、强力调控，再到闭口不谈，首度重提，可以看到政府表态、房价调控与民众舆论之间深厚的纠缠关系。无论是政府托底保障房建设，还是直接主导房地产市场调控，背后都能看到艰难博弈的影子。从过去一以贯之的国家调控，到“因城施策”的权力下放，新一届政府的房价调控策略越来越清晰。而房地产市场何时将实现“稳定健康发展”，或许还需拭目以待了。
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-align: center;">撰文：查远、戴玉</p><p style="text-align: center;">数据支持：戴玉、操子宜（图政数据）</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- image wraper -->
+            <div class="pbt_img_wrap al-mid">
+                <a>
+                    <img class="lazyCB"  data-size="600x600" data-original="http://inews.gtimg.com/newsapp_ls/0/1209668159/0">
+                </a>
+            </div>
+            <!-- image title wraper -->
+            <div class="pbt_img_title_wrap">
+                <p></p>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>
+    <div class="pbt_container">
+        <div class="pbt_one_grid">
+            <!-- text wraper -->
+            <div class="pbt_text_wrap">
+                <h2 class="pbt_inline_title"></h2>
+                <div class="pbt_inline_info">
+                    <p style="text-align: center;">欢迎关注新闻百科官方微信</p>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </div>    <!-- 版权页  --> 
+    <div id="copyrightPanel">
+        <div class="just-pc">
+            <p>Copyright &copy; 1998 - 2017 Tencent. All Rights Reserved</p>
+            <p>腾讯公司 版权所有</p>
+        </div>
+                <div class="just-mobile">
+            <!-- data-init : if (默认设置 'default'), else if (用户上传设置 'user'), else if (不添加设置 'null') -->
+                <div class="box-img" data-init="default">                
+                <img class="lazyCB" data-size="266x66" data-original="http://inews.gtimg.com/newsapp_ls/0/248733672/0">
+            </div>
+        </div>
+            </div>     
+    <!-- 版权页 End  -->  
+</div>
+<!-- Button : Goto Top -->
+<div id="pbt_backToTop" style="background-color:#eeeeee; visibility:visible;"></div>
+
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery-1.10.2.min.js"></script>        <!-- 必需加载 ：jQuery -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/cbtools.1.0.js"></script>              <!-- Global Tools -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/jquery.lazyload.js"></script>          <!-- 必需加载 ：lazyload -->
+<script src="//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools/require.js"></script>
+<script src="//mat1.gtimg.com/www/mb/cb/publish/assets_auto/js/api_v2.js" charset="utf-8"></script>
+<!-- 微信登陆态获取-->
+<script src="//mat1.gtimg.com/www/mb/cb2/publish/js/comment_v3.js"></script>
+
+<script type="text/javascript">
+var device = '';
+var chartDataArr = [];
+
+$(function() {
+		try{
+		//分享
+		var wxShareUrl = "http://news.qq.com/cross/20170303/U7WO939H.html";
+		if(window.location.host.indexOf('m.')=="0" || wxShareUrl==""){
+			var wxShareUrl= window.location.href;
+			wxShareUrl = wxShareUrl.replace(window.location.hash,"");
+			wxShareUrl = wxShareUrl.replace(window.location.search,"");
+		}
+		cbApi.wexin("http://inews.gtimg.com/newsapp_ls/0/1209666512/0",wxShareUrl,"楼市调控的“秘密”，就隐藏在政府工作报告中","总理政府工作报告是研判中国房价走势的“风向标”之一。");
+	}catch(e){}
+
+    var page = {
+        init : function(){
+            requirejs.config({
+                baseUrl: '//mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/',        //* Set : base-root :: //mat1.gtimg.com/www/mb/cb2/publish/prj_usual_1/assets/js/ 
+                paths: {
+                    "global-tools": "//mat1.gtimg.com/www/mb/cb2/global/assets/js/tools"   //* Set : my-define-src`
+                }
+            });
+
+            // Start loading the main app file.
+            requirejs(['Main_v3.6']);
+        }
+    }
+
+    page.init();
+});
+
+</script>
+	<script language="javascript" src="//mat1.gtimg.com/ping.js"></script>
+	<script language="javascript">
+	if(typeof(pgvMain) == 'function') pgvMain();
+	</script>
+	</body>
+</html>
+<!--[if !IE]>|xGv00|5cd1e10dae07e7022fad32837a4cc01c<![endif]-->
